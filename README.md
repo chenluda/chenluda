@@ -7,3 +7,5 @@
 
 
 ![chenluda's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenluda&show_icons=true&theme=tokyonight)
+
+<img align="right" alt="GIF" src="chenluda/code.gif" width="343" height="220" title="by GIPHY">
