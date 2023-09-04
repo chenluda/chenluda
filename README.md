@@ -5,6 +5,9 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=chenluda.chenluda" alt="visitors"/>   
 </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenluda)](https://github.com/chenluda/github-readme-stats)
+
 <!--
 **chenluda/chenluda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
