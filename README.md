@@ -25,8 +25,15 @@
 
 ## 🎓 Education
 
-- 2017-2021: B.S. in Biomedical Engineering, Kunming University of Science and Technology, kunming, CN
-- 2021-Present: M.S. in Computer Application Technology, Kunming University of Science and Technology, kunming, CN
+M.S. in Computer Application Technology
+Kunming University of Science and Technology, Kunming, China
+2021 - Present
+GPA: 3.98/4.00
+
+B.S. in Biomedical Engineering
+Kunming University of Science and Technology, Kunming, China
+2017 - 2021
+GPA: 3.44/4.00
 
 ## 🌱 Research Interests
 
