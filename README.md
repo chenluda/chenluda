@@ -1,50 +1,15 @@
 # Hi there, I'm Luda Chen 👋
 
-<p align="center">
-    <a href="https://github.com/chenluda/chenluda"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=chenluda.chenluda" alt="visitors"/>   
-</p>
+[![Email](https://img.shields.io/badge/-chenluda01@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:chenluda01@gmail.com)](mailto:chenluda01@gmail.com) 
+[![ZhiHu](https://img.shields.io/badge/ZhiHu-知乎-orange)](https://www.zhihu.com/people/Glenn) 
+[![](https://img.shields.io/github/stars/chenluda?style=flat-square&logo=github&label=Github%20Stars&labelColor=gray&color=red)](https://github.com/chenluda/chenluda)
+[![](https://visitor-badge.laobi.icu/badge?page_id=chenluda.chenluda)]()
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=chenluda&show_icons=true&theme=tokyonight" alt="chenluda's GitHub stats">
-    <img alt="GIF" src="img/code.gif" height="195" title="by GIPHY">
 </p>
 
-<p>
-    <img src="https://img.shields.io/badge/Language-Python-blue.svg" />
-    <img src="https://img.shields.io/badge/IDE-Pycharm%20|%20Vscode-blue.svg" />
-    <img src="https://img.shields.io/badge/Domain-Machine%20Learning%20|%20Medical%20Image%20Analysis%20|%20Software%20Development-blue.svg" />
-    <img src="https://img.shields.io/badge/OS-Windows%20|%20Ubuntu-blue.svg" />
-    <img src="https://img.shields.io/badge/Framework-Jupyter%20Notebook%20|%20Scikit--learn%20|%20PyTorch%20|%20Keras-blue.svg" />
-</p>
+Welcome to my GitHub. I am currently working on my Master's degree in Computer Application Technology at [Kunming University of Science and Technology](https://www.kmust.edu.cn/). My research direction is **medical image processing**, and I like to code some interesting tools in my spare time. If you have any questions on my projects, please feel free to [send me an email](mailto:chenluda01@outlook.com).
 
 <br clear="both"/>
-
----
-
-## 🎓 Education
-
-- **M.S. in Computer Application Technology**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021 - Present  
-  _Kunming University of Science and Technology, Kunming, China_  
-  GPA: 3.98/4.00
-
-- **B.S. in Biomedical Engineering**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017 - 2021  
-  _Kunming University of Science and Technology, Kunming, China_  
-  GPA: 3.44/4.00
-
-## 🌱 Research Interests
-
-- AI for Medical Image Processing
-- Full stack development of medical information systems
-
-## 📫 How to reach me
-
-- [GitHub](https://github.com/chenluda)
-- [ZhiHu](https://www.zhihu.com/people/Glenn)
-- [Email](mailto:chenluda01@gmail.com) *chenluda01@gmail.com*
-
----
-
-💼 Feel free to check out my repositories and projects! Feedback is always appreciated.
 
